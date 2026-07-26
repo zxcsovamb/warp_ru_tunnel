@@ -38,6 +38,7 @@ anidub.tv
 anilibria.tv
 animedia.tv
 animego.org
+animego.me
 animelayer.ru
 animespirit.ru
 animevost.org
@@ -512,6 +513,7 @@ quiz-buyers.wildberries.ru
 ra.wildberries.ru
 raiffeisen.ru
 rambler.ru
+resand.online
 ranobelib.me
 readmanga.live
 rec-goods.wildberries.ru
